@@ -1,0 +1,5 @@
+.MapViewer > .MapDisplay {
+  width: 750px;
+  height: 450px;
+  display: relative;
+}
